@@ -45,5 +45,3 @@ This repository contains implementations of various Data Structures and Algorith
 ## Contribution
 Contributions are welcome! Feel free to open issues for bugs, suggestions, or create pull requests with improvements or new algorithms/data structures.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
